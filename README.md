@@ -6,5 +6,5 @@ The [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) i
 - Accuracy = 0.80523 on test data
 - Position = 574 / 2278 (top 30%)
 
-You can check out my notebook on [Github](https://github.com/dfealfaj/MyProjects/blob/main/SpaceshipTitanic.ipynb) and [Kaggle](https://www.kaggle.com/code/danielfealf/spaceshiptitanic).
+You can check out my notebook on [Github](https://github.com/danielfeal/MyProjects/blob/main/SpaceshipTitanic.ipynb) and [Kaggle](https://www.kaggle.com/code/danielfealf/spaceshiptitanic).
 
